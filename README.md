@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Michele Filadelfia
 - 👀 I’m interested in computing science
-- 🌱 I’m currently learning algorithms and data structures
+- 🌱 I’m currently learning DSA, Software Enginering and others
 - 🌍 Website: https://michelefiladelfia.github.io/
-- 📫 Links: https://linktr.ee/Mic04
+- 💬 Telegram: https://t.me/Mic04_7
+- 🔵 Discord: Mic04#6879
+
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
