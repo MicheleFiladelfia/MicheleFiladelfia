@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Michele Filadelfia
-- 👀 I’m interested in computing science
+- 👀 I’m interested in computing science, software engineering and math
 - 🌱 I’m currently learning DSA, Software Enginering and others
 - 🌍 Website: https://michelefiladelfia.github.io/
 - 💬 Telegram: https://t.me/Mic04_7
 - 🔵 Discord: Mic04#6879
-
-
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 💞️ I’m looking to collaborate on some good open source project
