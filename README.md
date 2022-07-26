@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning DSA, Software Enginering and others
 - 🌍 Website: https://michelefiladelfia.github.io/
 - 💬 Telegram: https://t.me/Mic04_7
-- 🔵 Discord: Mic04#6879
+- 🔵 Discord: Mic04#3333
 - 💞️ I’m looking to collaborate on some good open source project
 - ☕ BuyMeACoffee: https://www.buymeacoffee.com/michelefila
