@@ -32,7 +32,9 @@
 
 <br><br>
 <h3 align="left">Leetcode stats:</h3>
-![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mic04?ext=heatmap)
+
 <br><br>
 
 <h3 align="left">Support:</h3>
