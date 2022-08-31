@@ -36,7 +36,8 @@
 <p><a href="https://www.buymeacoffee.com/michelefila"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="michelefila" /></a></p><br><br>
 
 
-<h3 align="left">Leetcode last year contribution:</h3>
+<h3 align="left">Leetcode stats:</h3>
 <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Mic04"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Mic04" width="400"/>
 </a>
+
