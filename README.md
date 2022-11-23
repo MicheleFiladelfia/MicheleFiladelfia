@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on some good open source project
 
-- 🤝 I’m looking for help with [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli)
+- 🤝 I’m looking for help with [filang](https://github.com/MicheleFiladelfia/filang) and [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli)
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
