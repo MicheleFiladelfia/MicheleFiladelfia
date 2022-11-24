@@ -10,7 +10,7 @@
 
 - 📝 I write blog articles on [https://michelefiladelfia.github.io/blog](https://michelefiladelfia.github.io/blog)
 
-- 💬 Telegram [https://t.me/Mic04_7](https://t.me/Mic04_7)
+- 💬 Telegram [https://t.me/michelefil](https://t.me/michelefil)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelefiladelfia&show_icons=true&locale=en" alt="michelefiladelfia" /></p>
 
