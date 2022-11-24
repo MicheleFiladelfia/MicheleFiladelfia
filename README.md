@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
-<h3 align="center">A 18 years old software developer that pushes himself to the top</h3>
 
 - 🌱 I’m currently learning DSA, Software Enginering, Math and others
 
