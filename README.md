@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
 
-- 🌱 I’m currently learning DSA, Software Enginering, Math and others
-
-- 👯 I’m looking to collaborate on some good open source project
+- 🌱 I am currently learning ctf and participating in the Italian cybersecurity Olympics.
+- 👯 I’m looking to collaborate on some good open source project.
 
 - 🤝 I’m looking for help with [filang](https://github.com/MicheleFiladelfia/filang) and [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli)
 
