@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
 
-- 🌱 I am currently participating in the Italian cybersecurity Olympics.
-- 👯 I’m looking to collaborate on some good open source project.
-
-- 🤝 I’m looking for help on my open source projects
+- 🌱 I am currently studying Computer Science at the University of Pisa
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
