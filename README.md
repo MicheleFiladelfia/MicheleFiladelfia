@@ -4,8 +4,6 @@
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
-- 📝 I write blog articles on [https://michelefiladelfia.github.io/blog](https://michelefiladelfia.github.io/blog)
-
 - 💬 Telegram [https://t.me/michefil](https://t.me/michefil)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelefiladelfia&show_icons=true&locale=en" alt="michelefiladelfia" /></p>
