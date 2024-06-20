@@ -20,14 +20,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelefiladelfia&show_icons=true&locale=en&layout=compact" alt="michelefiladelfia" /></p>
-
-
-<br><br><br><br>
-
-<br><br><br><br>
-<h3 align="left">Leetcode stats:</h3>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mic04?ext=heatmap)
-
-<br><br>
-
