@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
 
-- 🌱 I am currently interning at Qualcomm while studying computer science at the University of Pisa
+- 🌱 Computer science student at the University of Pisa
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
