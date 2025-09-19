@@ -4,7 +4,7 @@
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
-- 💬 Telegram [https://t.me/michefil](https://t.me/michefil)
+- 💬 Telegram [https://t.me/michefi](https://t.me/michefi)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelefiladelfia&show_icons=true&locale=en" alt="michelefiladelfia" /></p>
 
