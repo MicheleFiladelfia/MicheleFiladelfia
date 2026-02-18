@@ -2,14 +2,11 @@
 
 - 🌱 Computer science student at the University of Pisa and ex-Qualcomm intern
 
-- 📱 (Project I developed in my internship in Qualcomm)[https://github.com/quic/qidk/tree/master/Solutions/GenAI/speech_to_image]
+- 📱 Project I developed in my internship in Qualcomm (https://github.com/quic/qidk/tree/master/Solutions/GenAI/speech_to_image)[https://github.com/quic/qidk/tree/master/Solutions/GenAI/speech_to_image]
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
 - 💬 Telegram [https://t.me/michefi](https://t.me/michefi)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelefiladelfia&show_icons=true&locale=en" alt="michelefiladelfia" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
