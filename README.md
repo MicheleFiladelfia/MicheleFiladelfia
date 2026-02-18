@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
 
-- 🌱 Computer science student at the University of Pisa
+- 🌱 Computer science student at the University of Pisa and ex-Qualcomm intern
+
+- 📱 (Project I developed in my internship in Qualcomm)[https://github.com/quic/qidk/tree/master/Solutions/GenAI/speech_to_image]
 
 - 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
 
