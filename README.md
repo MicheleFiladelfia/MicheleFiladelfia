@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Michele Filadelfia</h1>
+# Hi 👋, I'm Michele Filadelfia
 
-* 🌱 Computer Science student at the University of Pisa | Ex-Google & Qualcomm Intern
+Computer Science student @ **University of Pisa** & ex-SWE Intern @ **Google** and **Qualcomm**.  
+Interested in low-level systems, performance, security, and cryptography.
 
+---
 
-- 📱 Project I developed in my internship in Qualcomm [https://github.com/qualcomm/qidk/tree/master/GenAI-Solutions/speech_to_image](https://github.com/qualcomm/qidk/tree/master/GenAI-Solutions/speech_to_image)
-- 👨‍💻 My website [https://michelefiladelfia.github.io/](https://michelefiladelfia.github.io/)
+### 📌 Highlights
+- 🎓 CS @ **University of Pisa** 
+- 💼 Ex-Software Engineer Intern @ **Google** (Android Security) & **Qualcomm** (AI Platforms)
+- 🤖 Contributed to Qualcomm's open-source [**speech_to_image**](https://github.com/qualcomm/qidk/tree/master/GenAI-Solutions/speech_to_image) pipeline
+- ⚡ Built [**filang**](https://github.com/MicheleFiladelfia/filang) (C bytecode compiler & VM) & [**fractals-cli**](https://github.com/MicheleFiladelfia/fractals-cli) (terminal fractal explorer in Go)
+- 🌐 Personal website: [michelefiladelfia.github.io](https://michelefiladelfia.github.io/)
 
-- 💬 Telegram [https://t.me/michefi](https://t.me/michefi)
+### 🛠️ Tech
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michelefiladelfia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelefiladelfia" height="30" width="40" /></a>
-<a href="https://instagram.com/michele.filadelfia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michele.filadelfia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCchNwo4D5VgtJmExy8HXlmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucchnwo4d5vgtjmexy8hxlmq" height="30" width="40" /></a>
-</p>
+### 📫 Connect
+[![Website](https://img.shields.io/badge/Website-michelefiladelfia.github.io-007ACC?style=flat-square&logo=google-chrome&logoColor=white)](https://michelefiladelfia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michelefiladelfia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelefiladelfia)
